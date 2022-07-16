@@ -1,7 +1,7 @@
 # Mario-Jump
 A simple game made in Html, Css and JavaScript.
 
-![Uploading Beta.gif…]()
+![Beta](https://user-images.githubusercontent.com/107600566/179349424-bcd01d3c-52ea-4e63-83af-70216ebb25dc.gif)
 
 ## How to install ?
 
